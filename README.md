@@ -5,8 +5,7 @@
 ### Me🌱
 Python을 위주로 공부하는 학생입니다.
 
-PyTorch와 Tenserflow를 이용한 딥러닝과
-머신러닝을 학습합니다.
+PyTorch와 Tenserflow를 이용한 딥러닝 및 머신러닝을 학습합니다.
 
 #
 ### 🔥 Tech Stack 🔥
