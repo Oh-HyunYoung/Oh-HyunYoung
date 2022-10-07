@@ -10,8 +10,9 @@ PyTorch와 Tenserflow를 이용한 딥러닝 및 머신러닝을 학습합니다
 #
 ### 🔥 Tech Stack 🔥
 <img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/ML-orange?style=plastic&logo={로고이름}&logoColor={로고 색깔}"/> <img src="https://img.shields.io/badge/DL-blue?style=plastic&logo={로고이름}&logoColor={로고 색깔}"/> <img src="https://img.shields.io/badge/Tensorflow-gray?style=plastic&logo=Tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Pytorch-green?style=plastic&logo=Pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/sklearn-violet?style=plastic&logo=scikit-learn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/sklearn-F7DF1E?style=plastic&logo=scikit-learn&logoColor=F7931E">
 
+ 
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh-HyunYoung&show_icons=true&theme=tokyonight)
