@@ -2,10 +2,10 @@
 
 ### Hi, I'm Hyunyoung 👋 
 #
-### Me🌱
-Python을 위주로 공부하는 학생입니다.
+### Introduction🌱
+안녕하세요. 현재 대학교 재학중이며 파이썬을 위주로 공부합니다.\
+데이터 엔지니어를 꿈꾸고 딥러닝 및 머신러닝을 학습합니다.🙌
 
-PyTorch와 Tenserflow를 이용한 딥러닝 및 머신러닝을 학습합니다.
 
 #
 ### 🔥 Tech Stack 🔥
