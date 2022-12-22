@@ -7,6 +7,7 @@
 
 ### 🔥 Tech Stack 🔥
 #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-HyunYoung&layout=compact&theme=tokyonight)
 <!--
 
 
@@ -18,7 +19,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh-HyunYoung&show_icons=true&theme=tokyonight)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-HyunYoung&layout=compact&theme=tokyonight)
+
 
 <!--
 **Oh-HyunYoung/Oh-HyunYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
