@@ -5,14 +5,15 @@
 ### Introduction🌱
 #
 
-### 🔥 Tech Stack 🔥
+### 🔥 Tech Stack 🔥 
+<img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Tensorflow-gray?style=plastic&logo=Tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Pytorch-green?style=plastic&logo=Pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/sklearn-F7DF1E?style=plastic&logo=scikit-learn&logoColor=F7931E">
+  
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-HyunYoung&layout=compact&theme=tokyonight)
 <!--
 
 
-<img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Tensorflow-gray?style=plastic&logo=Tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Pytorch-green?style=plastic&logo=Pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/sklearn-F7DF1E?style=plastic&logo=scikit-learn&logoColor=F7931E">
 
 # 
 </div>
